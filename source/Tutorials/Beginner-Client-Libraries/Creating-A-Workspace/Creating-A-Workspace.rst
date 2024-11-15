@@ -172,7 +172,7 @@ If you already have all your dependencies, the console will return:
 
 .. code-block:: console
 
-  #All required rosdeps installed successfully
+  All required rosdeps installed successfully
 
 Packages declare their dependencies in the package.xml file (you will learn more about packages in the next tutorial).
 This command walks through those declarations and installs the ones that are missing.
